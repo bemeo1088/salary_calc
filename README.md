@@ -1,3 +1,3 @@
 #README
 
-- [ ] Create a repository
+- [X] Create a repository
